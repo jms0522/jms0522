@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&theme=transparent&show_icons=true)
 
 <!--
 **jms0522/jms0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
