@@ -9,9 +9,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome%20to%20jangminsoo's%20Github!%&fontSize=40&&animation=twinkling)
 
 
------------------
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&theme=transparent&show_icons=true)
 <!--
 **jms0522/jms0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
