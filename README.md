@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome%20to%20Github!%&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome%20to%20jangminsoo's%20Github!%&fontSize=40&&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&theme=transparent&show_icons=true)
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
