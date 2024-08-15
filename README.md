@@ -1,11 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hello! Welcome to my github :) </h1>
 
-<p align="center" width="150px">최신 기술 동향을 학습하고 이를 실제 업무에 적용하여 데이터 엔지니어링 분야에서 전문가가 되고 싶습니다.
+<p align="center" width="150px">
+  최신 기술 동향을 학습하고 이를 실제 업무에 적용하여 데이터 엔지니어링 분야에서 전문가가 되고 싶습니다.
 
-데이터의 힘을 통해 비즈니스 가치를 창출하고, 효율적인 데이터 인프라를 구축하여 성장에 노력하겠습니다.</p>
+  데이터의 힘을 통해 비즈니스 가치를 창출하고, 효율적인 데이터 인프라를 구축하여 성장에 노력하겠습니다.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jms0522&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
