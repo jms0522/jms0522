@@ -3,15 +3,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hello! Welcome to my github :) </h1>
 
 <p align="center" width="150px">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   최신 기술 동향을 학습하고 이를 실제 업무에 적용하여 데이터 엔지니어링 분야에서 전문가가 되고 싶습니다.<br><br>
   데이터의 힘을 통해 비즈니스 가치를 창출하고, 효율적인 데이터 인프라를 구축하여 성장에 노력하겠습니다.
   감사합니다 🚀
 </p>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-<br>
-### :bar_chart: GitHub stats
 
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&count_private=true&show_icons=true&theme=dark)](https://github.com/jms0522/github-readme-stats)
+### :🚀 bar_chart: GitHub stats
+
+<p align="center">
+  <a href="https://github.com/jms0522/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jms0522&count_private=true&show_icons=true&theme=dark" alt="Shaunak's GitHub stats">
+  </a>
+</p>
 <!--
 ### 🛠 &nbsp;Tech Stack
 
