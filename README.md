@@ -8,6 +8,7 @@
 
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking...***
   최신 기술 동향을 학습하고 이를 실제 업무에 적용하여<br>
   데이터 엔지니어링 분야에서 전문가가 되고 싶습니다.<br><br>
   데이터의 힘을 통해 비즈니스 가치를 창출하고,<br>
