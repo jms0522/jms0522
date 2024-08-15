@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 :bar_chart: GitHub stats</strong>
+  <strong> :bar_chart: GitHub stats</strong>
 </p>
 
 <p align="center">
