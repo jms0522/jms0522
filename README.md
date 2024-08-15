@@ -7,8 +7,11 @@
   데이터의 힘을 통해 비즈니스 가치를 창출하고, 효율적인 데이터 인프라를 구축하여 성장에 노력하겠습니다.
   감사합니다 🚀
 </p>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+<br>
+### :bar_chart: GitHub stats
 
-
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0522&count_private=true&show_icons=true&theme=dark)](https://github.com/jms0522/github-readme-stats)
 <!--
 ### 🛠 &nbsp;Tech Stack
 
