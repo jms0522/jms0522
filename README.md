@@ -1,7 +1,7 @@
 <!--  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p> --> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="750" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="650" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hello! Welcome to my github :) </h1>
