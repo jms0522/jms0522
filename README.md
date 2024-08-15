@@ -14,7 +14,9 @@
   감사합니다 🚀
 </p>
 
-### 🚀 :bar_chart: GitHub stats
+<p align="center">
+  <strong>🚀 :bar_chart: GitHub stats</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/jms0522/github-readme-stats">
