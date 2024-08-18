@@ -17,8 +17,6 @@
   감사합니다 🚀
 </p>
 
-----
-
 <p align="center">
   <strong> :bar_chart: GitHub stats</strong>
 </p>
