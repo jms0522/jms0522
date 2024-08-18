@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="650" />
 </p>
 
-<h1 align="center" style="font-size: 50px;">
+<h1 align="center" style="font-size: 50px; margin-bottom: 0;">
   Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 </h1>
-<h2 align="center">Welcome to my GitHub :)</h2>
+<h2 align="center" style="margin-top: 0;">Welcome to my GitHub :)</h2>
 
 
 <p align="center">
