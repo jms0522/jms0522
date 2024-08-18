@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+My+Github.)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+My+Github.)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="650" />
