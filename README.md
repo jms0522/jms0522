@@ -1,12 +1,8 @@
-<!--  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p> --> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+My+Github.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="650" />
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> Welcome to my github :) </h1>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   <br>
