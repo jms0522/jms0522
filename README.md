@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# Welcome to My Blog
-
 <p align="center">
   <a href="https://jms0522.github.io" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Blog">
