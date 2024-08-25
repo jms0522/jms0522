@@ -4,6 +4,14 @@
   </a>
 </p>
 
+# Welcome to My Blog
+
+<p align="center">
+  <a href="https://jms0522.github.io" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Blog">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="650" />
 </p>
