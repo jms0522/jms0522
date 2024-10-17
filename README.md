@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   <br>
-  안녕하세요<br>
+  안녕하세요!<br>
   항상 도전적으로 문제를 해결하는 걸 좋아합니다.<br><br>
   데이터의 힘을 통해 비즈니스 가치를 창출하고,<br>
   효율적인 데이터 인프라를 구축하여 성장에 노력하겠습니다.<br><br>
