@@ -16,10 +16,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   <br>
-  안녕하세요!<br>
-  항상 도전적으로 문제를 해결하는 걸 좋아합니다.<br><br>
-  기술을 심도있고 깊게 공부하겠습니다 🫡<br><br>
-  감사합니다.
+  안녕하세요
+  <br>
+  
 </p>
 
 ----
